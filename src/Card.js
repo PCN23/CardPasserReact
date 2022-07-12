@@ -1,4 +1,5 @@
 import React from 'react';
+import { useGameProvider } from './GameProvider';
 
 const suitMap = {
   hearts: '❤️',
